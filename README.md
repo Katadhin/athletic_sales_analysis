@@ -1,4 +1,58 @@
-# athletic_sales_analysis
+# Athletic Sales Analysis Project
+
+## Overview
+This project involves an in-depth analysis of athletic sales data for the years 2020 and 2021. The primary goal is to extract meaningful insights from the sales data, focusing on regional sales performance, retailer performance, and the popularity of women's athletic footwear.
+
+## Data Source
+The data for this analysis comes from two CSV files:
+- `athletic_sales_2020.csv`: Contains sales data for the year 2020.
+- `athletic_sales_2021.csv`: Contains sales data for the year 2021.
+
+## Key Objectives
+The project aims to answer the following key questions:
+1. Which regions sold the most products?
+2. Which regions generated the highest total sales?
+3. Which retailers had the highest total sales?
+4. Which retailers sold the most women's athletic footwear?
+5. What were the peak days and weeks for women's athletic footwear sales?
+
+## Technologies Used
+- Python: The primary programming language used for analysis.
+- Pandas: A Python library used for data manipulation and analysis.
+- Jupyter Notebook: An open-source web application that allows the creation and sharing of documents with live code, equations, visualizations, and narrative text.
+
+## Methodology
+The analysis includes the following steps:
+1. Data Cleaning and Preprocessing: Combining data from both years and ensuring a consistent format.
+2. Data Analysis:
+   - Grouping and aggregating data to find top-performing regions and retailers.
+   - Filtering data to focus on women's athletic footwear sales.
+   - Resampling data to analyze daily and weekly sales trends.
+
+## Results
+- The results are displayed in a console-readable format, with monetary values formatted in US dollars.
+- Key findings include top regions and retailers by sales, as well as peak sales periods for women's athletic footwear.
+
+## How to Run the Project
+1. Ensure Python and Pandas are installed on your system.
+2. Clone the repository to your local machine.
+3. Navigate to the project directory and run the Jupyter Notebook.
+
+## Future Work
+- Enhance the analysis with visualizations using libraries like Matplotlib or Seaborn.
+- Expand the dataset to include more years for a longitudinal study.
+- Integrate more advanced statistical analysis to predict future trends.
+
+## Contact Information
+For any additional questions or feedback, please contact John Anfrews at john@katadhin.net.
+
+---
+
+*This README was generated as part of the Athletic Sales Analysis project.*
+
+*note: Original outline created using a psuedocode outline. Code created with co-pilot and ChatGPT assistance and feedback and a final ChatGPT refactor*
+
+## Original Assignment:
 
 Background
 

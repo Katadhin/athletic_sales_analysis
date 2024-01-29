@@ -143,28 +143,10 @@ print("\nWomen's Athletic Footwear Sales by Day:")
 print(sales_by_date_df.head())
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Show the top 5 results.
+print("\nWomen's Athletic Footwear Sales by Day:")
+print(sales_by_date_df.head())
+
 
 
 
